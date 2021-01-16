@@ -5,8 +5,8 @@ var feed,addFood;
 var foodObj;
 
 function preload(){
-sadDog=loadImage("Images/dogImg1.png");
-happyDog=loadImage("Images/dogImg.png");
+sadDog=loadImage("images/dogImg1.png");
+happyDog=loadImage("images/dogImg.png");
 }
 
 function setup() {
